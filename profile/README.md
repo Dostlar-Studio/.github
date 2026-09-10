@@ -25,6 +25,8 @@ sunucu verisi. Her mod önce kendi sunucumuzda çalışıyor, sonra yayına giri
 | **Satış Yönetimi** · `FS25_SellingAdmin` | Haritadaki bütün satış noktalarını tek panelde toplar. Ürün fiyatına çarpan, taban ve tavan koyar; oyunun dinamik fiyat sistemi bozulmaz. | 1.3.0.0 | Geliştirmede |
 | **Araç Sıfırlama Kapalı** · `FS25_NoVehicleReset` | Araç sıfırlamayı hem menüde hem sunucu tarafında kapatır. Suya batan araç ışınlanmaz, zincirle çekilir ve tamirhanede onarılır. | 2.0.2.0 | Geliştirmede |
 | **Discord Bridge** · `FS25_DiscordBridge` | Sunucu verisini FTP üzerinden okuyan Node.js köprüsüyle Discord'a taşır: canlı pano, uyarı kanalları, slash komutları, web panosu. | 1.3.4.0 | Geliştirmede |
+| **AFK Koruması** · `FS25_AFKGuard` | Boşta kalan oyuncuyu önce uyarır, onay gelmezse sunucudan düşürür. Slotu tutan ama oynamayan oyuncuyu temizler. | 1.2.0.0 | Geliştirmede |
+| **Uyku Bekçisi** · `FS25_SleepHunter` | Uykuyu saat penceresine hapseder: en erken 20:00'de yatılır, en geç 08:00'de kalkılır. İki katman pencereyi dolanmayı engeller. | 1.2.0.0 | Geliştirmede |
 | **Production Upgrade** · `FS25_ProductionUpgrade` | Üretim noktalarına yükseltme seviyeleri ekler: üretim hızı, depo kapasitesi, verim. | 0.1.0.0 | Erken geliştirme |
 | **Kontrat Ürün Koruması** · `FS25_ContractGuard` | Koruma katmanı olduğu gibi Kontrat Yöneticisi'ne taşındı, kayıt verisi de devrediliyor. | 1.0.0.0 | Yerini bıraktı |
 
@@ -76,6 +78,8 @@ vehicle reset, server economy, Discord integration. Every mod runs on our own se
 | FS25_SellingAdmin | Multiplier, floor and ceiling prices for every selling point, without breaking the game's dynamic pricing | 1.3.0.0 | In development |
 | FS25_NoVehicleReset | Disables vehicle reset in the menu and on the server; sunken vehicles are towed and repaired instead | 2.0.2.0 | In development |
 | FS25_DiscordBridge | Node.js bridge that reads server snapshots over FTP and pushes them to Discord | 1.3.4.0 | In development |
+| FS25_AFKGuard | Warns idle players, then drops them from the server when no confirmation arrives | 1.2.0.0 | In development |
+| FS25_SleepHunter | Confines sleeping to a time window and enforces the wake-up time on every player | 1.2.0.0 | In development |
 | FS25_ProductionUpgrade | Upgrade levels for production points: speed, storage, efficiency | 0.1.0.0 | Early development |
 | FS25_ContractGuard | Merged into Contract Manager, which also migrates its save data | 1.0.0.0 | Replaced |
 
