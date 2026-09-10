@@ -39,7 +39,8 @@ Her modun ayrıntılı sayfası, özellik listesi ve indirme bağlantısı
   kuralı deleyemiyor.
 - **Çok oyunculu önce gelir.** Modlar dedicated sunucuda test ediliyor; ayarlar kayıt dosyası başına
   saklanıyor ve tüm oyuncularda senkron kalıyor.
-- **Dört dil.** Türkçe, İngilizce, Almanca; Kontrat Yöneticisi'nde ayrıca Fransızca.
+- **Üç dil, tek paket.** Türkçe, İngilizce ve Almanca metinler her modun içinde geliyor;
+  Kontrat Yöneticisi'nde ayrıca Fransızca var.
 - **Ölçülü maliyet.** Her karede iş yapan kanca yazmıyoruz; diske yazma ve olay kancaları
   sunucuyu kasmayacak sıklıkta çalışıyor.
 
@@ -65,6 +66,7 @@ Hata bildirirken `log.txt` dosyasının ilgili satırlarını eklersen çok daha
 <summary><b>English</b></summary>
 
 **Dostlar STUDIO** is the mod workshop of the [dostlarkonagi.com](https://dostlarkonagi.com) community.
+Everything below is also on our site in English: [studio.dostlarkonagi.com/en](https://studio.dostlarkonagi.com/en/).
 We write Lua script mods for Farming Simulator 25, aimed at rented dedicated servers: contract abuse,
 vehicle reset, server economy, Discord integration. Every mod runs on our own server before release.
 
@@ -77,7 +79,7 @@ vehicle reset, server economy, Discord integration. Every mod runs on our own se
 | FS25_ProductionUpgrade | Upgrade levels for production points: speed, storage, efficiency | 0.1.0.0 | Early development |
 | FS25_ContractGuard | Merged into Contract Manager, which also migrates its save data | 1.0.0.0 | Replaced |
 
-Mod pages and downloads: [studio.dostlarkonagi.com](https://studio.dostlarkonagi.com).
+Mod pages and downloads: [studio.dostlarkonagi.com/en](https://studio.dostlarkonagi.com/en/).
 Design notes: no custom HUD, the game's own screens only; rules are server authoritative;
 multiplayer and dedicated first; Turkish, English and German (plus French in Contract Manager).
 
