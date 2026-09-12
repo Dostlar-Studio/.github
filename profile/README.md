@@ -21,7 +21,7 @@ sunucu verisi. Her mod önce kendi sunucumuzda çalışıyor, sonra yayına giri
 
 | Mod | Ne yapar | Sürüm | Durum |
 | --- | --- | --- | --- |
-| **[Kontrat Yöneticisi](https://github.com/Dostlar-Studio/FS25_ContractManager)** · `FS25_ContractManager` | Kontrat üretimini, ödül ve ceza modelini, limitleri sunucu yöneticisinin eline verir. Kontrat ürününü hırsızlığa karşı korur, ortak kontrat açar. | 1.13.1.0 | Yayında |
+| **[Kontrat Yöneticisi](https://github.com/Dostlar-Studio/FS25_ContractManager)** · `FS25_ContractManager` | Kontrat üretimini, ödül ve ceza modelini, limitleri sunucu yöneticisinin eline verir. Kontrat ürününü hırsızlığa karşı korur, ortak kontrat açar. | 1.14.1.0 | Yayında |
 | **Satış Yönetimi** · `FS25_SellingAdmin` | Haritadaki bütün satış noktalarını tek panelde toplar. Ürün fiyatına çarpan, taban ve tavan koyar; oyunun dinamik fiyat sistemi bozulmaz. | 1.3.0.0 | Geliştirmede |
 | **Araç Sıfırlama Kapalı** · `FS25_NoVehicleReset` | Araç sıfırlamayı hem menüde hem sunucu tarafında kapatır. Suya batan araç ışınlanmaz, zincirle çekilir ve tamirhanede onarılır. | 2.0.2.0 | Geliştirmede |
 | **[Discord Bridge](https://bridge.dostlarkonagi.com/)** · `FS25_DiscordBridge` | Sunucu verisini Discord'a ve web panosuna taşır: canlı pano, uyarılar, on beş slash komut, savegame yedeği. Köprü bizim altyapımızda; kurulum tarayıcıdan, dört adım. | 1.3.8.0 | Yayında |
@@ -74,7 +74,7 @@ vehicle reset, server economy, Discord integration. Every mod runs on our own se
 
 | Mod | What it does | Version | Status |
 | --- | --- | --- | --- |
-| [FS25_ContractManager](https://github.com/Dostlar-Studio/FS25_ContractManager) | Contract generation, reward and penalty model, limits, server-side product guard, partner contracts | 1.13.1.0 | Released |
+| [FS25_ContractManager](https://github.com/Dostlar-Studio/FS25_ContractManager) | Contract generation, reward and penalty model, limits, server-side product guard, partner contracts | 1.14.1.0 | Released |
 | FS25_SellingAdmin | Multiplier, floor and ceiling prices for every selling point, without breaking the game's dynamic pricing | 1.3.0.0 | In development |
 | FS25_NoVehicleReset | Disables vehicle reset in the menu and on the server; sunken vehicles are towed and repaired instead | 2.0.2.0 | In development |
 | [FS25_DiscordBridge](https://bridge.dostlarkonagi.com/) | Server data in Discord and in a web panel: live dashboard, alerts, fifteen slash commands, savegame backup. We host the bridge; setup runs in the browser | 1.3.8.0 | Released |
