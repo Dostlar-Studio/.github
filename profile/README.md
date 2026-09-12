@@ -33,6 +33,10 @@ sunucu verisi. Her mod önce kendi sunucumuzda çalışıyor, sonra yayına giri
 Her modun ayrıntılı sayfası, özellik listesi ve indirme bağlantısı
 [studio.dostlarkonagi.com](https://studio.dostlarkonagi.com) üzerinde.
 
+Lisans, yasal uyarı ve gizlilik: [studio.dostlarkonagi.com/yasal](https://studio.dostlarkonagi.com/yasal/).
+Kısacası modları kullanabilir, düzenleyebilir ve bir mod paketine koyabilirsin; tek şart Dostlar STUDIO
+adını belirtmek. Zip'i başka bir siteye yeniden yüklemek ve modları satmak yasak.
+
 ## Nasıl yazıyoruz
 
 - **Oyunun kendi ekranları.** Ayrı bir HUD kurmuyoruz. Kurallar ESC menüsündeki ayarlar sekmesinde,
@@ -84,6 +88,9 @@ vehicle reset, server economy, Discord integration. Every mod runs on our own se
 | FS25_ContractGuard | Merged into Contract Manager, which also migrates its save data | 1.0.0.0 | Replaced |
 
 Mod pages and downloads: [studio.dostlarkonagi.com/en](https://studio.dostlarkonagi.com/en/).
+License, legal notice and privacy: [studio.dostlarkonagi.com/en/legal](https://studio.dostlarkonagi.com/en/legal/).
+In short: you may use the mods, edit them and include them in a modpack as long as you credit
+Dostlar STUDIO. Reuploading the zip elsewhere and selling the mods are not allowed.
 Design notes: no custom HUD, the game's own screens only; rules are server authoritative;
 multiplayer and dedicated first; Turkish, English and German (plus French in Contract Manager).
 
