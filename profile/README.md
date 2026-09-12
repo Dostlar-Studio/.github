@@ -24,7 +24,7 @@ sunucu verisi. Her mod önce kendi sunucumuzda çalışıyor, sonra yayına giri
 | **[Kontrat Yöneticisi](https://github.com/Dostlar-Studio/FS25_ContractManager)** · `FS25_ContractManager` | Kontrat üretimini, ödül ve ceza modelini, limitleri sunucu yöneticisinin eline verir. Kontrat ürününü hırsızlığa karşı korur, ortak kontrat açar. | 1.13.1.0 | Yayında |
 | **Satış Yönetimi** · `FS25_SellingAdmin` | Haritadaki bütün satış noktalarını tek panelde toplar. Ürün fiyatına çarpan, taban ve tavan koyar; oyunun dinamik fiyat sistemi bozulmaz. | 1.3.0.0 | Geliştirmede |
 | **Araç Sıfırlama Kapalı** · `FS25_NoVehicleReset` | Araç sıfırlamayı hem menüde hem sunucu tarafında kapatır. Suya batan araç ışınlanmaz, zincirle çekilir ve tamirhanede onarılır. | 2.0.2.0 | Geliştirmede |
-| **Discord Bridge** · `FS25_DiscordBridge` | Sunucu verisini FTP üzerinden okuyan Node.js köprüsüyle Discord'a taşır: canlı pano, uyarı kanalları, slash komutları, web panosu. | 1.3.4.0 | Geliştirmede |
+| **[Discord Bridge](https://bridge.dostlarkonagi.com/)** · `FS25_DiscordBridge` | Sunucu verisini Discord'a ve web panosuna taşır: canlı pano, uyarılar, on beş slash komut, savegame yedeği. Köprü bizim altyapımızda; kurulum tarayıcıdan, dört adım. | 1.3.8.0 | Yayında |
 | **AFK Koruması** · `FS25_AFKGuard` | Boşta kalan oyuncuyu önce uyarır, onay gelmezse sunucudan düşürür. Slotu tutan ama oynamayan oyuncuyu temizler. | 1.2.0.0 | Geliştirmede |
 | **Uyku Bekçisi** · `FS25_SleepHunter` | Uykuyu saat penceresine hapseder: en erken 20:00'de yatılır, en geç 08:00'de kalkılır. İki katman pencereyi dolanmayı engeller. | 1.2.0.0 | Geliştirmede |
 | **Production Upgrade** · `FS25_ProductionUpgrade` | Üretim noktalarına yükseltme seviyeleri ekler: üretim hızı, depo kapasitesi, verim. | 0.1.0.0 | Erken geliştirme |
@@ -77,7 +77,7 @@ vehicle reset, server economy, Discord integration. Every mod runs on our own se
 | [FS25_ContractManager](https://github.com/Dostlar-Studio/FS25_ContractManager) | Contract generation, reward and penalty model, limits, server-side product guard, partner contracts | 1.13.1.0 | Released |
 | FS25_SellingAdmin | Multiplier, floor and ceiling prices for every selling point, without breaking the game's dynamic pricing | 1.3.0.0 | In development |
 | FS25_NoVehicleReset | Disables vehicle reset in the menu and on the server; sunken vehicles are towed and repaired instead | 2.0.2.0 | In development |
-| FS25_DiscordBridge | Node.js bridge that reads server snapshots over FTP and pushes them to Discord | 1.3.4.0 | In development |
+| [FS25_DiscordBridge](https://bridge.dostlarkonagi.com/) | Server data in Discord and in a web panel: live dashboard, alerts, fifteen slash commands, savegame backup. We host the bridge; setup runs in the browser | 1.3.8.0 | Released |
 | FS25_AFKGuard | Warns idle players, then drops them from the server when no confirmation arrives | 1.2.0.0 | In development |
 | FS25_SleepHunter | Confines sleeping to a time window and enforces the wake-up time on every player | 1.2.0.0 | In development |
 | FS25_ProductionUpgrade | Upgrade levels for production points: speed, storage, efficiency | 0.1.0.0 | Early development |
