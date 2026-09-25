@@ -15,7 +15,9 @@
 Dostlar STUDIO, [dostlarkonagi.com](https://dostlarkonagi.com) topluluğunun mod atölyesi.
 Kiralık dedicated sunucularda karşılaştığımız gerçek sorunlardan yola çıkıyoruz: kontrat ürününü
 çalan oyuncu, tek tuşla eve ışınlanan araç, anlamını yitiren sunucu ekonomisi, Discord'a taşınmayan
-sunucu verisi. Her mod önce kendi sunucumuzda çalışıyor, sonra yayına giriyor.
+sunucu verisi, nedeni bilinmeyen takılma, fabrikanın önünde yığılan paletler. Kontrat ve ekonomi
+modlarının yanında oyuncular arası pazar, ikinci el mezatı, palet lojistiği ve sunucu ölçümü de
+yazıyoruz. Her mod önce kendi sunucumuzda çalışıyor, sonra yayına giriyor.
 
 ## Modlar
 
@@ -83,7 +85,8 @@ Hata bildirirken `log.txt` dosyasının ilgili satırlarını eklersen çok daha
 **Dostlar STUDIO** is the mod workshop of the [dostlarkonagi.com](https://dostlarkonagi.com) community.
 Everything below is also on our site in English: [studio.dostlarkonagi.com/en](https://studio.dostlarkonagi.com/en/).
 We write Lua script mods for Farming Simulator 25, aimed at rented dedicated servers: contract abuse,
-vehicle reset, server economy, Discord integration. Every mod runs on our own server before release.
+vehicle reset, server economy, Discord integration, stutter diagnostics, player-to-player trade,
+used vehicle auctions and pallet logistics. Every mod runs on our own server before release.
 
 | Mod | What it does | Version | Status |
 | --- | --- | --- | --- |
