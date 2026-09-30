@@ -23,7 +23,7 @@ yazıyoruz. Her mod önce kendi sunucumuzda çalışıyor, sonra yayına giriyor
 
 | Mod | Ne yapar | Sürüm | Durum |
 | --- | --- | --- | --- |
-| **[Kontrat Yöneticisi](https://github.com/Dostlar-Studio/FS25_ContractManager)** · `FS25_ContractManager` | Kontrat üretimini, limitleri, ödül ve ceza modelini sunucu yöneticisinin eline verir. Kontrat ürününü hırsızlığa karşı korur, ortak kontrat ve devir açar. | 1.24.8.0 | Yayında |
+| **[Kontrat Yöneticisi](https://github.com/Dostlar-Studio/FS25_ContractManager)** · `FS25_ContractManager` | Kontrat üretimini, limitleri, ödül ve ceza modelini sunucu yöneticisinin eline verir. Kontrat ürününü hırsızlığa karşı korur, ortak kontrat ve devir açar. | 1.24.9.0 | Yayında |
 | **[Discord Bridge](https://bridge.dostlarkonagi.com/)** · `FS25_DiscordBridge` | Sunucudaki bakiye, tarla, araç, fiyat, kontrat ve olay verisini Discord'a ve tarayıcıya taşır. Köprü bizim altyapımızda çalışır; sen yalnızca modu sunucuya atarsın. | 1.4.0.0 | Yayında |
 | **[AFK Koruması](https://studio.dostlarkonagi.com/mods/afk-guard/)** · `FS25_AFKGuard` | Boşta kalan oyuncuyu önce uyarır, onay gelmezse sunucudan düşürür. Slotu tutan ama oynamayan oyuncuyu temizler. | 1.2.3.0 | Yayında |
 | **[Uyku Bekçisi](https://studio.dostlarkonagi.com/mods/sleep-hunter/)** · `FS25_SleepHunter` | Uykuyu saat penceresine hapseder: en erken 20:00'de yatılır, en geç 08:00'de kalkılır. | 1.2.1.0 | Yayında |
@@ -90,7 +90,7 @@ used vehicle auctions and pallet logistics. Every mod runs on our own server bef
 
 | Mod | What it does | Version | Status |
 | --- | --- | --- | --- |
-| [FS25_ContractManager](https://github.com/Dostlar-Studio/FS25_ContractManager) | Puts contract generation, limits and the reward/penalty model in the server admin's hands. Guards the contract product against theft and opens up shared contracts. | 1.24.8.0 | Released |
+| [FS25_ContractManager](https://github.com/Dostlar-Studio/FS25_ContractManager) | Puts contract generation, limits and the reward/penalty model in the server admin's hands. Guards the contract product against theft and opens up shared contracts. | 1.24.9.0 | Released |
 | [FS25_DiscordBridge](https://bridge.dostlarkonagi.com/) | Carries balance, field, vehicle, price, contract and event data from the server to Discord and to your browser. The bridge runs on our infrastructure; all you do is drop the mod onto your server. | 1.4.0.0 | Released |
 | [FS25_AFKGuard](https://studio.dostlarkonagi.com/en/mods/afk-guard/) | Warns an idle player first, then drops them from the server if no confirmation arrives. Clears players who hold a slot without playing. | 1.2.3.0 | Released |
 | [FS25_SleepHunter](https://studio.dostlarkonagi.com/en/mods/sleep-hunter/) | Confines sleeping to a time window: no sleep before 20:00, everyone is up by 08:00 at the latest. | 1.2.1.0 | Released |
