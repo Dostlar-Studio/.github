@@ -45,7 +45,7 @@ yazıyoruz. Her mod önce kendi sunucumuzda çalışıyor, sonra yayına giriyor
 Her modun ayrıntılı sayfası, özellik listesi ve indirme bağlantısı
 [studio.dostlarkonagi.com](https://studio.dostlarkonagi.com) üzerinde.
 
-Lisans, yasal uyarı ve gizlilik: [studio.dostlarkonagi.com/yasal](https://studio.dostlarkonagi.com/yasal/).
+Kullanım şartları, lisans, yasal uyarı ve gizlilik: [studio.dostlarkonagi.com/yasal](https://studio.dostlarkonagi.com/yasal/).
 Kısacası modları kullanabilir, düzenleyebilir ve bir mod paketine koyabilirsin; tek şart Dostlar STUDIO
 adını belirtmek. Zip'i başka bir siteye yeniden yüklemek ve modları satmak yasak.
 
@@ -111,7 +111,7 @@ used vehicle auctions and pallet logistics. Every mod runs on our own server bef
 | [FS25_ContractGuard](https://studio.dostlarkonagi.com/en/mods/contract-guard/) | The first mod that stopped field contract crops from being stolen. Development has stopped; its guard layer moved into Contract Manager unchanged. | 1.0.0.0 | Shelved |
 
 Mod pages and downloads: [studio.dostlarkonagi.com/en](https://studio.dostlarkonagi.com/en/).
-License, legal notice and privacy: [studio.dostlarkonagi.com/en/legal](https://studio.dostlarkonagi.com/en/legal/).
+Terms of use, license, legal notice and privacy: [studio.dostlarkonagi.com/en/legal](https://studio.dostlarkonagi.com/en/legal/).
 In short: you may use the mods, edit them and include them in a modpack as long as you credit
 Dostlar STUDIO. Reuploading the zip elsewhere and selling the mods are not allowed.
 Design notes: no custom HUD, the game's own screens only; rules are server authoritative;
