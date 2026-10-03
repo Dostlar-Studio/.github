@@ -32,18 +32,10 @@ yazıyoruz. Her mod önce kendi sunucumuzda çalışıyor, sonra yayına giriyor
 | **[Dostlar Ticaret Merkezi](https://studio.dostlarkonagi.com/mods/trade-center/)** · `FS25_DSTradeCenter` | Haritaya yerleştirilen, kantarlı ve herkese açık bir satış noktası. Fiyatlar piyasayı izler ve ürün ürün dalgalanır, her satışa numaralı fatura kesilir; sunucu yöneticisi fiyatları tek tablodan ayarlar. | 1.17.0.0 | Geliştirmede |
 | **[Palet Kasa Dorse](https://studio.dostlarkonagi.com/mods/pallet-cargo-semi/)** · `FS25_PalletCargoSemi` | Tırlar için kapalı kasa dorse; paletli ürünleri litre olarak taşır. Oyunun orijinal Krone Profi Liner şasisi üzerinde sert bir Dostlar STUDIO kasa. | 1.15.6.0 | Geliştirmede |
 | **[Palet Kasa Römork](https://studio.dostlarkonagi.com/mods/pallet-cargo-trailer/)** · `FS25_PalletCargoTrailer` | Traktörler için kapalı kasa römork; paletli ürünleri litre olarak taşır. Oyunun orijinal Annaburger HTS 22B.79 şasisi üzerinde sıfırdan çizilmiş bir Dostlar STUDIO kasa. | 1.15.6.0 | Geliştirmede |
-| **[AFK Koruması](https://studio.dostlarkonagi.com/mods/afk-guard/)** · `FS25_AFKGuard` | Boşta kalan oyuncuyu önce uyarır, onay gelmezse sunucudan düşürür. Slotu tutan ama oynamayan oyuncuyu temizler. | 1.2.3.0 | Rafa kaldırıldı |
-| **[Uyku Bekçisi](https://studio.dostlarkonagi.com/mods/sleep-hunter/)** · `FS25_SleepHunter` | Uykuyu saat penceresine hapseder: en erken 20:00'de yatılır, en geç 08:00'de kalkılır. | 1.2.1.0 | Rafa kaldırıldı |
-| **[Satış Yönetimi](https://studio.dostlarkonagi.com/mods/selling-admin/)** · `FS25_SellingAdmin` | Haritadaki bütün satış noktalarını ve aldıkları ürünleri tek panelde toplar. Ürün fiyatına çarpan, taban ve tavan koy; oyunun dinamik fiyat sistemi bozulmasın. | 1.3.0.0 | Rafa kaldırıldı |
-| **[Araç Sıfırlama Kapalı](https://studio.dostlarkonagi.com/mods/no-vehicle-reset/)** · `FS25_NoVehicleReset` | Araç sıfırlama düğmesini oyunculara tamamen kapatır. Suya batan araç ışınlanmaz; zincirle çekilir, tamirhanede onarılır. | 2.0.4.0 | Rafa kaldırıldı |
-| **[Sunucu Teşhis](https://studio.dostlarkonagi.com/mods/server-diagnostics/)** · `FS25_ServerDiagnostics` | Sunucun neden takılıyor? Bu mod tahmin etmez, ölçer: mod başına süre, araç ve yapı başına süre, ağ sayaçları, takılma yakalayıcı. | 1.4.0.0 | Rafa kaldırıldı |
-| **[Gelişmiş Peyzaj](https://studio.dostlarkonagi.com/mods/advanced-landscaping/)** · `FS25_AdvancedLandscaping` | Fırçayla sürterek değil, ölçerek peyzaj. Dört direk dikersin, kipi seçersin, taşınacak toprağı ve ücreti görürsün, sonra uygularsın. | 0.5.0.0 | Rafa kaldırıldı |
-| **[Sunucu İnce Ayar](https://studio.dostlarkonagi.com/mods/server-tuner/)** · `FS25_ServerTuner` | Dedicated sunucuda hangi modun yük yarattığını kendi ölçer ve pahalı olanları daha seyrek çağırır. Mod listesi tutmaz, hangi modların kurulu olduğunu bilmesi gerekmez. | 0.2.0.0 | Rafa kaldırıldı |
-| **[Server Warden](https://studio.dostlarkonagi.com/mods/server-warden/)** · `FS25_ServerWarden` | Sunucu ve admin yönetimi: AFK koruması, uyku saatleri, araç reset kuralları, ekonomi ve oyun kuralları tek ayar penceresinde. | 0.3.0.0 | Rafa kaldırıldı |
-| **[Kontrat Ürün Koruması](https://studio.dostlarkonagi.com/mods/contract-guard/)** · `FS25_ContractGuard` | Tarla kontratı ürününün çalınmasını engelleyen ilk mod. Geliştirmesi durdu; koruma katmanı olduğu gibi Kontrat Yöneticisi'ne taşındı. | 1.0.0.0 | Rafa kaldırıldı |
 
 Her modun ayrıntılı sayfası, özellik listesi ve indirme bağlantısı
-[studio.dostlarkonagi.com](https://studio.dostlarkonagi.com) üzerinde.
+[studio.dostlarkonagi.com](https://studio.dostlarkonagi.com) üzerinde. Rafa kaldırılan modlar sitenin
+[Arşiv](https://studio.dostlarkonagi.com/arsiv/) sayfasında.
 
 Kullanım şartları, lisans, yasal uyarı ve gizlilik: [studio.dostlarkonagi.com/yasal](https://studio.dostlarkonagi.com/yasal/).
 Kısacası modları kullanabilir, düzenleyebilir ve bir mod paketine koyabilirsin; tek şart Dostlar STUDIO
@@ -100,17 +92,9 @@ used vehicle auctions and pallet logistics. Every mod runs on our own server bef
 | [FS25_DSTradeCenter](https://studio.dostlarkonagi.com/en/mods/trade-center/) | A placeable public selling point with a weighbridge. Prices follow the market and drift per product, every sale gets a numbered invoice, and the server admin sets prices from a single table. | 1.17.0.0 | In development |
 | [FS25_PalletCargoSemi](https://studio.dostlarkonagi.com/en/mods/pallet-cargo-semi/) | A closed-body semi-trailer for trucks that carries pallet goods as litres. A rigid Dostlar STUDIO body on the game's original Krone Profi Liner chassis. | 1.15.6.0 | In development |
 | [FS25_PalletCargoTrailer](https://studio.dostlarkonagi.com/en/mods/pallet-cargo-trailer/) | A closed-body trailer for tractors that carries pallet goods as litres. A Dostlar STUDIO body drawn from scratch on the game's original Annaburger HTS 22B.79 chassis. | 1.15.6.0 | In development |
-| [FS25_AFKGuard](https://studio.dostlarkonagi.com/en/mods/afk-guard/) | Warns an idle player first, then drops them from the server if no confirmation arrives. Clears players who hold a slot without playing. | 1.2.3.0 | Shelved |
-| [FS25_SleepHunter](https://studio.dostlarkonagi.com/en/mods/sleep-hunter/) | Confines sleeping to a time window: no sleep before 20:00, everyone is up by 08:00 at the latest. | 1.2.1.0 | Shelved |
-| [FS25_SellingAdmin](https://studio.dostlarkonagi.com/en/mods/selling-admin/) | Collects every selling point on the map and the goods it buys into one panel. Set a multiplier, a floor and a cap per product without breaking the game's dynamic pricing. | 1.3.0.0 | Shelved |
-| [FS25_NoVehicleReset](https://studio.dostlarkonagi.com/en/mods/no-vehicle-reset/) | Takes the vehicle reset button away from players entirely. A vehicle that sinks is not teleported; it gets towed out and repaired at a workshop. | 2.0.4.0 | Shelved |
-| [FS25_ServerDiagnostics](https://studio.dostlarkonagi.com/en/mods/server-diagnostics/) | Why does your server stutter? This mod does not guess, it measures: time per mod, time per vehicle and placeable, network counters, a stall catcher. | 1.4.0.0 | Shelved |
-| [FS25_AdvancedLandscaping](https://studio.dostlarkonagi.com/en/mods/advanced-landscaping/) | Landscaping by measuring instead of smearing a brush. You plant four posts, pick a mode, see the soil to be moved and the cost, then apply. | 0.5.0.0 | Shelved |
-| [FS25_ServerTuner](https://studio.dostlarkonagi.com/en/mods/server-tuner/) | Measures on its own which mod loads a dedicated server and calls the expensive ones less often. It keeps no mod list and does not need to know which mods are installed. | 0.2.0.0 | Shelved |
-| [FS25_ServerWarden](https://studio.dostlarkonagi.com/en/mods/server-warden/) | Server and admin management: AFK protection, sleep hours, vehicle reset rules, economy and game rules in a single settings window. | 0.3.0.0 | Shelved |
-| [FS25_ContractGuard](https://studio.dostlarkonagi.com/en/mods/contract-guard/) | The first mod that stopped field contract crops from being stolen. Development has stopped; its guard layer moved into Contract Manager unchanged. | 1.0.0.0 | Shelved |
 
 Mod pages and downloads: [studio.dostlarkonagi.com/en](https://studio.dostlarkonagi.com/en/).
+Shelved mods are on the site's [Archive](https://studio.dostlarkonagi.com/en/archive/) page.
 Terms of use, license, legal notice and privacy: [studio.dostlarkonagi.com/en/legal](https://studio.dostlarkonagi.com/en/legal/).
 In short: you may use the mods, edit them and include them in a modpack as long as you credit
 Dostlar STUDIO. Reuploading the zip elsewhere and selling the mods are not allowed.
