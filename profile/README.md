@@ -23,7 +23,7 @@ yazıyoruz. Her mod önce kendi sunucumuzda çalışıyor, sonra yayına giriyor
 
 | Mod | Ne yapar | Sürüm | Durum |
 | --- | --- | --- | --- |
-| **[Kontrat Yöneticisi](https://github.com/Dostlar-Studio/FS25_ContractManager)** · `FS25_ContractManager` | Kontrat üretimini, limitleri, ödül ve ceza modelini sunucu yöneticisinin eline verir. Kontrat ürününü hırsızlığa karşı korur, ortak kontrat ve devir açar. | 1.25.1.0 | Yayında |
+| **[Kontrat Yöneticisi](https://github.com/Dostlar-Studio/FS25_ContractManager)** · `FS25_ContractManager` | Kontrat üretimini, limitleri, ödül ve ceza modelini sunucu yöneticisinin eline verir. Kontrat ürününü hırsızlığa karşı korur, ortak kontrat ve devir açar. | 1.26.0.0 | Yayında |
 | **[Discord Bridge](https://bridge.dostlarkonagi.com/)** · `FS25_DiscordBridge` | Sunucudaki bakiye, tarla, araç, fiyat, kontrat ve olay verisini Discord'a ve tarayıcıya taşır. Köprü bizim altyapımızda çalışır; sen yalnızca modu sunucuya atarsın. | 1.4.2.0 | Yayında |
 | **[Oyuncu Pazarı](https://studio.dostlarkonagi.com/mods/farm-market/)** · `FS25_FarmMarket` | Üretim çıktıları için oyuncular arası ticaret. Fabrika sahibi ürettiğini satışa açar, girdi için alış ilanı verir; başka çiftlikler gelip alır ya da getirip satar. | 1.9.0.0 | Geliştirmede |
 | **[Mezat](https://studio.dostlarkonagi.com/mods/vehicle-auction/)** · `FS25_VehicleAuction` | Sabit fiyatlı ikinci el pazarını saatli açık artırmayla değiştirir. Sınırlı sayıda araç belirli saatlerde gelir ve en yüksek teklifi verene satılır. | 0.18.0.0 | Geliştirmede |
@@ -82,7 +82,7 @@ used vehicle auctions and pallet logistics. Every mod runs on our own server bef
 
 | Mod | What it does | Version | Status |
 | --- | --- | --- | --- |
-| [FS25_ContractManager](https://github.com/Dostlar-Studio/FS25_ContractManager) | Puts contract generation, limits and the reward/penalty model in the server admin's hands. Guards the contract product against theft and opens up shared contracts. | 1.25.1.0 | Released |
+| [FS25_ContractManager](https://github.com/Dostlar-Studio/FS25_ContractManager) | Puts contract generation, limits and the reward/penalty model in the server admin's hands. Guards the contract product against theft and opens up shared contracts. | 1.26.0.0 | Released |
 | [FS25_DiscordBridge](https://bridge.dostlarkonagi.com/) | Carries balance, field, vehicle, price, contract and event data from the server to Discord and to your browser. The bridge runs on our infrastructure; all you do is drop the mod onto your server. | 1.4.2.0 | Released |
 | [FS25_FarmMarket](https://studio.dostlarkonagi.com/en/mods/farm-market/) | Player-to-player trade around production. A factory owner lists outputs for sale and posts buy offers for inputs; other farms come to buy, or bring goods and sell. | 1.9.0.0 | In development |
 | [FS25_VehicleAuction](https://studio.dostlarkonagi.com/en/mods/vehicle-auction/) | Replaces the fixed-price used vehicle market with timed auctions. A limited number of vehicles arrives in scheduled windows and goes to the highest bidder. | 0.18.0.0 | In development |
