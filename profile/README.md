@@ -152,7 +152,7 @@ adını belirtmek. Zip'i başka bir siteye yeniden yüklemek ve modları satmak 
 
 ### [Farm Towny](https://farmtowny.com/)
 
-Oyun · ![Geliştirme aşamasında](https://img.shields.io/badge/Oyun-Geli%C5%9Ftirme%20a%C5%9Famas%C4%B1nda-c9a13b?style=flat-square&labelColor=1c231c)
+![Oyun · Geliştirme aşamasında](https://img.shields.io/badge/Oyun-Geli%C5%9Ftirme%20a%C5%9Famas%C4%B1nda-c9a13b?style=flat-square&labelColor=1c231c)
 
 Herkesin aynı köyde çiftlik kurduğu izometrik bir tarım oyunu. Tarlanı sür, ek, biç; ürününü kamyonla pazara taşı. Köy gece gündüz akar, sen yokken de tarlaların büyür. Tarayıcıda oynanır, bir şey indirmen gerekmez.
 
@@ -165,7 +165,7 @@ Herkesin aynı köyde çiftlik kurduğu izometrik bir tarım oyunu. Tarlanı sü
 
 ### [Dostlar Community](https://community.dostlarkonagi.com/)
 
-Topluluk botu · ![Yayında](https://img.shields.io/badge/Topluluk%20botu-Yay%C4%B1nda-2f6b3a?style=flat-square&labelColor=1c231c)
+![Topluluk botu · Yayında](https://img.shields.io/badge/Topluluk%20botu-Yay%C4%B1nda-2f6b3a?style=flat-square&labelColor=1c231c)
 
 Discord toplulukları için destek talebi, seviye ve moderasyon botu; karşılama, başvuru, çekiliş ve kayıt kanalları da var. Hangi özelliklerin açık olacağına sen karar verirsin, her şeyi web panelinden ayarlarsın. Türkçe, İngilizce ve Almanca konuşur.
 
